@@ -116,3 +116,7 @@ Built the OnePlus 12 `OnePlus12_17.0.1.202_Port_From_FindX10ProMax&OnePlus16`
 package with this tool: port `system`/`vendor`/`odm`/`my_*` images, official
 16.0.10.501 `system_dlkm`/`vendor_dlkm`, and port `vbmeta*`. It installed
 through Skyward, disabled AVB, and the phone booted the port.
+
+## License
+
+GPL-3.0-or-later, matching Skyward. See `LICENSE`.
