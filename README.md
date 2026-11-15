@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Skyward cardzip
 
 A standalone builder for **Skyward card-flash zips** made from per-partition
